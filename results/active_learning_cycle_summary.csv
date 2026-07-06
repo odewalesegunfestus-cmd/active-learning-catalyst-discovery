@@ -1,0 +1,2 @@
+Cycle,Initial_dataset_size,Updated_dataset_size,Selected_Ni_fraction,Selected_Co_fraction,Selected_Fe_fraction,Predicted_Overpotential,Uncertainty,Simulated_Experimental_Overpotential
+1,20,21,0.2552607293125009,0.4317034877249357,0.3130357829625634,207.7,12.35354199915235,205
